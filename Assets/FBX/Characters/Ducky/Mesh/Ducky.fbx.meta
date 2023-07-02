@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: f46ca5665cd5b2e49b744c51e6c913f8
+guid: abc8f556938df3f4f82fe920273404a7
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable:
   - first:
-      74: -203655887218126122
-    second: breathing
+      74: -7406590632571905639
+    second: Running
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -36,18 +36,18 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: breathing
-      takeName: mixamo.com
+      name: Running
+      takeName: Armature|Armature.001|mixamo.com|Layer0 Retarget
       internalID: 0
       firstFrame: 0
-      lastFrame: 298
+      lastFrame: 22
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -129,7 +129,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
